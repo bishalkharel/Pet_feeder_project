@@ -9,6 +9,7 @@ This project is an **automatic pet feeder system""designed to dispense food at s
 - `Step3_Flowchart/` – Flowcharts for system logic.
 - `Step4_Word_Code/` – Word-based code or pseudocode of the feeder logic.
 - `Step5_TestResults/` – Test results, improvements and observations.
+- `part3_Ai_integration/`- contains suggestions given by Copilot to make system better.
   
 
 ## How to Use
